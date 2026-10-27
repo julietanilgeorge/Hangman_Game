@@ -1,6 +1,6 @@
 # 🎮 Hangman Game
 
-A simple word-guessing game developed using Python as part of my CodeAlpha internship.
+A simple word-guessing game developed using Python.
 
 ## 📌 About the Project
 
@@ -31,7 +31,3 @@ python hangman.py
 ## 🎯 Learning Outcomes
 
 This project helped me practise Python fundamentals, conditional statements, loops, strings, and basic game logic.
-
-## 👩‍💻 Internship
-
-Developed as part of my CodeAlpha Python Programming internship.
