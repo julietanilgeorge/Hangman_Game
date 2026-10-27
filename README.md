@@ -1,42 +1,17 @@
-# CodeAlpha Python Programming Internship Tasks
+# 🎮 Hangman Game
 
-This repository contains two Python projects completed as part of my CodeAlpha Python Programming Internship.
+A simple word-guessing game developed using Python as part of my CodeAlpha internship.
 
-## 🎮 Task 1: Hangman Game
+## 📌 About the Project
 
-### About
-A simple word-guessing game developed using Python. The player attempts to guess a hidden word by entering letters.
+Hangman is a text-based game in which the player tries to guess a hidden word by entering letters. The program checks each guess and tracks the player's progress until the word is guessed or the allowed attempts are exhausted.
 
-### Features
+## ✨ Features
+
 - Five predefined words.
 - Interactive letter guessing.
 - Feedback on correct and incorrect guesses.
 - Win or lose outcome based on the game's rules.
-
-### Concepts Used
-- Variables and data types
-- Conditional statements
-- Loops
-- Strings and lists
-- Basic game logic
-
-## 🤖 Task 2: Basic Rule-Based Chatbot
-
-### About
-A simple chatbot developed using Python that responds to user messages according to predefined rules.
-
-### Features
-- Five predefined messages and their corresponding responses.
-- Interactive user input.
-- Rule-based response generation.
-- A default response for unrecognized messages, if implemented.
-
-### Concepts Used
-- Variables and data types
-- User input and output
-- Conditional statements
-- String comparison
-- Basic decision-making logic
 
 ## 🛠️ Technologies Used
 
@@ -44,26 +19,19 @@ A simple chatbot developed using Python that responds to user messages according
 
 ## ▶️ How to Run
 
-1. Install Python on your computer.
+1. Install Python.
 2. Download or clone this repository.
-3. Open a terminal in the relevant project folder.
-4. Run the appropriate Python file:
+3. Open a terminal in the project folder.
+4. Run:
 
-For Hangman:
-`python hangman.py`
-
-For the chatbot:
-`python chatbot.py`
-
-Replace the filenames in these commands if your actual files have different names.
+```bash
+python hangman.py
+```
 
 ## 🎯 Learning Outcomes
 
-Through these projects, I practised Python programming fundamentals, logical thinking, conditional statements, loops, and building interactive command-line applications.
+This project helped me practise Python fundamentals, conditional statements, loops, strings, and basic game logic.
 
 ## 👩‍💻 Internship
 
-**Organisation:** CodeAlpha  
-**Domain:** Python Programming
-
-These projects were completed as part of my internship tasks at CodeAlpha.
+Developed as part of my CodeAlpha Python Programming internship.
